@@ -6,7 +6,7 @@ My name is Nakisha (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist w
 
 - 🔭 I’m currently working on various data science projects.
 - 🌱 I’m always learning and exploring new technologies, especially in the field of data science.
-- 💬 Ask me about Python, machine learning, and data visualization.
+- 💬 Ask me about Python, machine learning, and data visualisation.
 - 📫 How to reach me: [Email](mailto:nakisha.richards@hotmail.co.uk)
 - ⚡ Fun fact: I playing Genshin Impact and digital drawing
 
