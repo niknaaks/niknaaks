@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an aspiring data scientist with a passion for Python and all things data science. Welcome to my GitHub profile!
+My name is Nakisha (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist with a passion for Python and all things data science. Welcome to my GitHub profile!
 
 ## About Me
 
