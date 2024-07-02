@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nakisha (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist with a passion for Python and all things data science. Welcome to my GitHub profile!
+My name is ✨ _Nakisha_ ✨ (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist with a passion for Python and all things data science. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -8,7 +8,7 @@ My name is Nakisha (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist w
 - 🌱 I’m always learning and exploring new technologies, especially in the field of data science.
 - 💬 Ask me about Python, machine learning, and data visualisation.
 - 📫 How to reach me: [Email](mailto:nakisha.richards@hotmail.co.uk)
-- ⚡ Fun fact: My favourite video games are Genshin Impact and Final Fantasy
+- ⚡ Fun fact: My favourite video games are Genshin Impact, Zelda, Final Fantasy, Wuthering Waves and Minecraft!
   
   ## Skills
 
@@ -22,7 +22,7 @@ My name is Nakisha (pronounced *nuh-KEE-shuh*). I'm an aspiring data scientist w
 Here are some of the projects I've been working on:
 
 - [Project 1: Credit Card Fraud Detector](https://github.com/your-username/project1)
-  - The modeel use datasets to detect fraudulent credit transactions
+  - The model use datasets to detect fraudulent credit transactions
 
 
 ## Connect with Me
