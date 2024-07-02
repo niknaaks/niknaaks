@@ -10,7 +10,7 @@ My name is ✨ _Nakisha_ ✨ (pronounced *nuh-KEE-shuh*). I'm an aspiring data s
 - 📫 How to reach me: [Email](mailto:nakisha.richards@hotmail.co.uk)
 - ⚡ Fun fact: My favourite video games are Genshin Impact, Zelda, Final Fantasy, Wuthering Waves and Minecraft!
   
-  ## Skills
+## Skills
 
 - **Programming Languages:** Python, JavaScript
 - **Data Science:** Machine Learning, Data Analysis, Data Visualization
