@@ -21,7 +21,7 @@ My name is ✨ _Nakisha_ ✨ (pronounced *nuh-KEE-shuh*). I'm an aspiring data s
 
 Here are some of the projects I've been working on:
 
-- [Project 1: Credit Card Fraud Detector](https://github.com/your-username/project1)
+- [Project 1: Credit Card Fraud Detector](https://github.com/niknaaks/credit_card_fraud_detector)
   - The model use datasets to detect fraudulent credit transactions
 
 
